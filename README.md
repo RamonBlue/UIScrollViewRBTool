@@ -41,6 +41,6 @@
 
 * 一个简单示例
 
-![GIF](https://upload-images.jianshu.io/upload_images/1211432-727a83250872bd49.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![GIF](https://upload-images.jianshu.io/upload_images/1211432-c91adef01ff9d442.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
