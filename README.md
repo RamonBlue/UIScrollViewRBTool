@@ -33,13 +33,8 @@
 
 * 支持子view移除
 
-```
-UIView *view = self.viewsArrayM.firstObject;
+``
 [self.scrollView removeView:view withPadding:30];
-[self.viewsArrayM removeObject:view];
-[UIView animateWithDuration:0.2 animations:^{
-    [self.view layoutIfNeeded];
-}];
 ```
 
 ![GIF](https://upload-images.jianshu.io/upload_images/1211432-d030a8af50d1bd50.gif?imageMogr2/auto-orient/strip)
