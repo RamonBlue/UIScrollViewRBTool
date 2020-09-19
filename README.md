@@ -33,7 +33,7 @@
 
 * 支持子view移除
 
-``
+```
 [self.scrollView removeView:view withPadding:30];
 ```
 
